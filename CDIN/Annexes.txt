@@ -1,0 +1,18 @@
+
+
+Document d'aide pour le html et css:
+-https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1605329-formatage-du-texte
+-http://css.mammouthland.net/border-css.php
+-https://getbootstrap.com/
+-https://forum.alsacreations.com/topic-1-74726-1-Les-grilles-Bootstrap.html
+-https://htmlcolorcodes.com/fr/tutoriels/couleur-de-texte-css/
+-https://www.zonecss.fr/faq/couleur-et-police-d-un-texte.html
+-https://www.toutes-les-couleurs.com/code-couleur-html.php
+-https://developer.mozilla.org/fr/docs/Web/CSS/position
+
+Document pour la recherche de contenue de la page d'accueil:
+-http://www.iut-informatique.fr/
+-https://www.letudiant.fr/etudes/dut/dut-informatique.html
+-https://fr.wikipedia.org/wiki/Dipl%C3%B4me_universitaire_de_technologie_en_informatique
+-http://www.univ-artois.fr/Actualites/Agenda/JOURNEE-PORTES-OUVERTES-2019
+-http://www.lavoixletudiant.com/etudes/les-ecoles-se-presentent/89712/toutes-les-journees-immersion-des-universites-de-la-region/
